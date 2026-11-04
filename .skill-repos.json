@@ -1,0 +1,7 @@
+{
+  "slug": "minimax-xlsx",
+  "displayName": "Excel 文件处理",
+  "description": "创建与分析 Excel 表格，支持公式、图表与格式整理。",
+  "releaseVersion": "1.0.4",
+  "authorVersion": "1.0.0"
+}
